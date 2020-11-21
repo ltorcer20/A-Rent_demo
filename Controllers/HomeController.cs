@@ -23,6 +23,7 @@ namespace A_Rent_demo.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
