@@ -23,18 +23,18 @@ namespace A_Rent_demo.Controllers
             return View();
         }
 
-<<<<<<< HEAD
+        
         public IActionResult SingUp()
         {
             return View();
         }
-=======
+
         public IActionResult Bookings()
         {
             return View();
         }
 
->>>>>>> 5113bcbead555a950ffbc14c1d529010af2f0e06
+
 
         public IActionResult Privacy()
         {
