@@ -23,10 +23,17 @@ namespace A_Rent_demo.Controllers
             return View();
         }
 
+        
+        public IActionResult SingUp()
+        {
+            return View();
+        }
+
         public IActionResult Bookings()
         {
             return View();
         }
+
 
 
         public IActionResult Privacy()
